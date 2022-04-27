@@ -1,0 +1,73 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,telefe
+
+http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
+
+
+#EXTINF:-1 ,canal trece
+
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+
+#EXTINF:-1 ,CANAL 9 HD
+
+rtmp://sl100tb.cxnlive.com/live/canal9.stream
+
+
+#EXTINF:-1 ,TyC Sports HD
+
+rtmp://sl100tb.cxnlive.com/live/tyc.stream
+
+
+#EXTINF:-1 ,C5N
+
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+
+
+#EXTINF:-1 ,Canal 26 HD
+
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-720
+
+
+#EXTINF:-1 ,ESPN +
+
+http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
+
+
+#EXTINF:-1 ,History
+http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8
+
+
+#EXTINF:-1 ,Boomerang
+
+http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8
+
+
+#EXTINF:-1 ,Q Musica
+
+mms://streamqm.uigc.net/qmusica
+
+
+#EXTINF:-1 ,NATGEO HD
+
+http://ilg.club/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&bitrate=800
+
+
+#EXTINF:-1 ,FX HD
+
+http://ilg.club/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7&bitrate=800
+
+
+
+#EXTINF:-1 ,FOX SPORTS
+
+rtmp://wdc.cxnlive.com/live/foxsd.stream
+
+
+#EXTINF:-1 ,CRONICA TV
+
+rtmp://wdc.cxnlive.com/live/cronica.stream
+
+
